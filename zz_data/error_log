@@ -1,0 +1,6 @@
+[03-Feb-2014 23:44:14 America/Denver] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/uxweeken/public_html/Flower/www/zz_data/news_list.php on line 15
+[03-Feb-2014 23:44:14 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'sean'@'localhost' (using password: NO) in /home1/uxweeken/public_html/Flower/www/zz_data/news_list.php on line 20
+[03-Feb-2014 23:44:14 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/uxweeken/public_html/Flower/www/zz_data/news_list.php on line 20
+[03-Feb-2014 23:44:19 America/Denver] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/uxweeken/public_html/Flower/www/zz_data/news_list.php on line 15
+[03-Feb-2014 23:44:19 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'sean'@'localhost' (using password: NO) in /home1/uxweeken/public_html/Flower/www/zz_data/news_list.php on line 20
+[03-Feb-2014 23:44:19 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/uxweeken/public_html/Flower/www/zz_data/news_list.php on line 20
